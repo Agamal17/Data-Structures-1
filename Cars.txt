@@ -1,0 +1,16 @@
+15
+Honda|Civic:32
+Toyota|Camry:15
+Ford|F-150:2
+Hyundai|Elantra:4
+Nissan|Altima:1
+Jeep|Wrangler:6
+Volkswagen|Jetta:2
+Subaru|Forester:3
+Rolls Royce|Phantom:7
+Kia|Telluride:8
+Tesla|Model 3:4
+Chevrolet|Silverado:8
+Dodge|Ram:1
+Mercedes-Benz|C-Class:3
+BMW|3 Series:7
